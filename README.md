@@ -1,12 +1,13 @@
 # sf-coding-standards
 Very similar to the GNU Coding Standards written by Richard Stallman and other GNU Project volunteers.
 
-can be used for C++, Java, or Apex (Salesforce).
+# Can be used for:
+ * Apex (Salesforce) ✅
+ * C++ ✅
+ * Java ✅
 
-✔️ ☑️ use Allman style
-
-❌ ❎ don't use
-
+# Indent code using Allman style ✅
+https://en.wikipedia.org/wiki/Indentation_style#Allman_style
 
  * Code is indented using Allman Style — opening curly brace brackets are on new
  * lines to vertically align with closing curly brace brackets — and not in K&R
@@ -19,3 +20,5 @@ can be used for C++, Java, or Apex (Salesforce).
  * Apex has a limit of 6 MB per org.
  *
  * Single SOQL statments are broken into multiple lines, in a staircase indentation.
+
+❌ ❎ don't use
