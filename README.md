@@ -22,3 +22,8 @@ https://en.wikipedia.org/wiki/Indentation_style#Allman_style
  * Single SOQL statments are broken into multiple lines, in a staircase indentation.
 
 ❌ ❎ don't use
+
+
+use emojis
+
+use spaces
