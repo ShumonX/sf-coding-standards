@@ -24,6 +24,6 @@ https://en.wikipedia.org/wiki/Indentation_style#Allman_style
 ❌ ❎ don't use
 
 
-use emojis
+comments should always contain at least 1 emoji
 
 use spaces
