@@ -6,7 +6,7 @@
  * @version 1.0
  * 
  * sf-coding-standards
- * Similar to the GNU Coding Standards by Richard Stallman and other GNU Project volunteers.
+ * Similar to the GNU Coding Standards by Richard Stallman and other GNU Project volunteers 🐃
  * 
  * Code is indented using Allman Style — opening curly brace brackets are on new
  * lines to vertically align with closing curly brace brackets — and not in K&R
